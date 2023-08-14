@@ -45,18 +45,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-Anshuman_Goswami-0CC664?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Anshuman0769/)](https://twitter.com/Anshuman0769/)
 [![Gmail Badge](https://img.shields.io/badge/anshumangoswami07@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:anshumangoswami07@gmail.com)](mailto:anshumangoswami07@gmail.com)
 
----
-
-
-<p align="center">
-<a href="https://github.com/goswamianshuman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goswamianshuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goswamianshuman&theme=radical"/>
-</a>
-</p>
-
-<p align="center">
-      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=goswamianshuman&hide_border=true&theme=radical" />
-  </p>
-
----
