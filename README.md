@@ -5,8 +5,7 @@
 
 ### Experience 📈
 
-- 👩‍💻 Working as Intern at: [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io)
-- 🤵 Previously Interned at: [![Revedor India](https://img.shields.io/badge/-Revedor_India-blue?style=plastic&logo=Website&logoColor=white)](https://www.linkedin.com/company/revedorindia/)
+- 🤵 Previously Interned at: [![Revedor India](https://img.shields.io/badge/-Revedor_India-blue?style=plastic&logo=Website&logoColor=white)](https://www.linkedin.com/company/revedorindia/) [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io)
 
 - 🔭 Languages and Tools I work with: 
       <p align="left"> 
