@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamianshuman&label=Profile%20views&color=5432D2&style=flat" alt="goswamianshuman" /> </p>
 
 ### Experience 📈
-
-- 🤵 Previously Interned at: [![Revedor India](https://img.shields.io/badge/-Revedor_India-blue?style=plastic&logo=Website&logoColor=white)](https://www.linkedin.com/company/revedorindia/) [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io)
+- Founder [![Tubeblend](https://img.shields.io/badge/-Tubeblend-blue?style=plastic&logo=Tubeblend&logoColor=white)](https://www.linkedin.com/company/tubeblend)
+- 🤵 Previously worked at: [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io) [![Revedor India](https://img.shields.io/badge/-Revedor_India-6441a3?style=plastic&logo=Website&logoColor=white)](https://www.linkedin.com/company/revedorindia/)
 
 - 🔭 Languages and Tools I work with: 
       <p align="left"> 
