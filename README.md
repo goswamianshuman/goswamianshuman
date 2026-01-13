@@ -23,10 +23,8 @@
 <!-- Experience Section -->
 <h2 align="left">Experience 📈</h2>
 
-- Currently at 
-  [![Greenstory](https://img.shields.io/badge/-Greenstory-00C853?style=plastic&logo=leaflet&logoColor=white)](https://greenstory.io)
-
 - 🤵 Previously worked at:
+  [![Greenstory](https://img.shields.io/badge/-Greenstory-00C853?style=plastic&logo=leaflet&logoColor=white)](https://greenstory.io)
   [![Fealty Technologies](https://img.shields.io/badge/-Fealty%20Technologies-blue?style=plastic&logo=flat&logoColor=white)](https://fealtytechnologies.com)
   [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io)
   [![Revedor India](https://img.shields.io/badge/-Revedor_India-6441a3?style=plastic&logo=icloud&logoColor=white)](https://www.linkedin.com/company/revedorindia/)
