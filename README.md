@@ -1,209 +1,184 @@
-<!-- Top Section -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goswamianshuman&label=Profile%20views&color=5432D2&style=flat" alt="goswamianshuman" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=120&section=header&text=Anshuman%20Goswami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20·%20Founder&descAlignY=60&descAlign=50"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=goswamianshuman&label=Profile%20views&color=c0392b&style=flat"/>
+  <a href="https://x.com/Anshuman0769">
+    <img src="https://img.shields.io/badge/X-@Anshuman0769-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/goswamianshuman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anshuman-0079CF?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://useordoai.com">
+    <img src="https://img.shields.io/badge/Ordo%20AI-useordoai.com-c0392b?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:anshumangoswami07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anshumangoswami07-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h1 align="center">Hey, I'm Anshuman Goswami (he/him) 👋</h1>
-<h3 align="center">Full-Stack Engineer · Python · Next.js · AWS · Building in public</h3>
-<h3 align="center">currently building <a href="https://useordoai.com" target="_blank">Ordo</a></h3>
+</div>
 
-<p align="center">
-  <em>
-    I build creator tools that turn chaotic video workflows into simple, scalable systems.<br/>
-    Currently focused on Solvra Studio – the creator workspace cloud for influencers and teams who run on video.
-  </em>
-</p>
+---
 
-<hr/>
+## ⚡ Currently Building
 
-## What I'm Building 🚀
+<table>
+<tr>
+<td width="60%">
 
-At <a href="https://solvra.studio" target="_blank">Solvra Studio</a>, we're building the command center for creator content – a secure, collaborative workspace for influencers and video teams.  
+### 🔴 [Ordo AI](https://useordoai.com)
+> *The error tells you where the pipeline stopped. Not why.*
 
-- 🎬 Centralized video review with timestamped feedback and version control  
-- 🤝 Shared workspaces for creators and editors – no more scattered WhatsApp / Drive links  
-- 📤 Direct publishing to YouTube from one place (titles, descriptions, tags, scheduling)  
-- 📊 Lightweight status and workflow tracking so teams always know what’s in draft, review, and ready to publish  
+When Airflow or dbt breaks, engineers spend **45–90 minutes** digging through logs.
+Ordo diagnoses the root cause automatically and sends it to Slack in **under 60 seconds.**
 
-Long-term, we’re evolving Solvra into the infrastructure modern creator businesses use to run like top-tier studios (multi-platform publishing, AI-assisted workflows, and deep performance analytics). [web:2][web:4]
+```
+Pipeline fails
+     ↓
+Ordo pulls logs + run history +
+schema changes + upstream row counts
+     ↓
+LangGraph agent correlates all signals
+     ↓
+Plain-English root cause in Slack (60s)
+```
 
-<hr/>
+**Stack:** FastAPI · LangGraph · Appwrite · Upstash · Next.js · Tailwind
 
-## Snapshot – Me in 30 Seconds 🧠
+</td>
+<td width="40%">
 
-- 🧑‍💻 Full Stack Engineer turned **founder**, with a focus on product, DX, and shipping fast  
-- 🏗️ Love working on TypeScript, React, Next.js, Node.js, and cloud-native architectures  
-- 🎯 Obsess over clean UX for complex workflows – especially in creator and B2B SaaS tools  
-- 📍 Collaborating globally with creators, editors, developers, and early adopters of Solvra
+**What Ordo catches:**
+- 🔴 Adapter version regressions
+- 🔴 Relation cache deadlocks
+- 🔴 Silent upstream failures
+- 🔴 Schema drift cascades
+- 🔴 Auth expiry errors
 
-<hr/>
+**Built in:** 48 hours solo  
+**Status:** Live · Early access open
 
-## Awards & Achievements 🏆
+→ **[useordoai.com](https://useordoai.com)**
 
-- 🏅 <strong>GitHub Octern 2023</strong> – Selected as a GitHub Octern for contributions to open source and software development.
-
-<hr/>
-
-## Previous Experience 📈
-
-Before Solvra Studio, I worked with teams across product, engineering, and growth:
-
-- 🤝 Previously at:  
-  <a href="https://greenstory.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Greenstory-00C853?style=plastic&logo=leaflet&logoColor=white" alt="Greenstory Badge"/>
-  </a>
-  <a href="https://fealtytechnologies.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Fealty%20Technologies-blue?style=plastic&logo=flat&logoColor=white" alt="Fealty Technologies Badge"/>
-  </a>
-  <a href="https://appwrite.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white" alt="Appwrite Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/company/revedorindia/" target="_blank">
-    <img src="https://img.shields.io/badge/-Revedor_India-6441a3?style=plastic&logo=icloud&logoColor=white" alt="Revedor India Badge"/>
-  </a>
-
-<hr/>
-
-## Stack I Work With 🔧
-
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.typescriptlang.org/docs" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://react.dev" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nextjs.org/docs" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nodejs.org/en/docs" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nestjs.com/" target="_blank">
-        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Nest.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://pyspark.apache.org/docs/latest/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://graphql.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/2232217?s=48&v=4" alt="AWS" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://azure.microsoft.com/en-us/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<hr/>
+---
 
-## Connect With Me & Solvra 📱👇
+## 🧠 About Me
+
+```python
+anshuman = {
+    "role"       : "Full-Stack Engineer → Founder",
+    "experience" : "6 years",
+    "focus"      : ["AI Agent Systems", "Data Infrastructure", "ETL Pipelines at Scale"],
+    "stack"      : ["Python", "FastAPI", "Next.js", "LangGraph", "Appwrite", "Upstash"],
+    "scale"      : "Built ETL pipelines processing 4T+ records in production",
+    "location"   : "Madhya Pradesh, India",
+    "building"   : "useordoai.com",
+    "open_to"    : ["Design partners", "Early users", "Technical conversations"],
+}
+```
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Details |
+|---|---|
+| 🏅 GitHub Octern 2023 | Selected for contributions to open source and software development |
+| 🚀 0 to MVP in 48 hours | Built and deployed Ordo AI — backend, frontend, landing page, AI agent |
+| 📊 ETL at Scale | Designed pipelines processing 4T+ records in production |
+| 🤖 AI Agent Systems | Built production-grade LangGraph agents for complex diagnosis workflows |
+| 🔍 dbt Community | Active contributor helping data engineers debug pipeline failures |
+
+---
+
+## 🔧 Tech Stack
+
+### Languages and Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI and Data
+![LangChain](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=chainlink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Databases and Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goswamianshuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=c0392b&icon_color=c0392b&border_color=c0392b"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goswamianshuman&layout=compact&langs_count=8&theme=radical&title_color=c0392b&border_color=c0392b"/>
+</div>
+
+---
+
+## 🏢 Previous Experience
 
 <p>
-  <!-- Personal -->
+  <a href="https://greenstory.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Greenstory-00C853?style=plastic&logo=leaflet&logoColor=white"/>
+  </a>
+  <a href="https://fealtytechnologies.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Fealty%20Technologies-blue?style=plastic&logo=flat&logoColor=white"/>
+  </a>
+  <a href="https://appwrite.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/company/revedorindia/" target="_blank">
+    <img src="https://img.shields.io/badge/-Revedor_India-6441a3?style=plastic&logo=icloud&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect
+
+<p>
   <a href="https://www.linkedin.com/in/goswamianshuman/" target="_blank">
-    <img src="https://img.shields.io/badge/-Anshuman_Goswami-0079CF?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Anshuman_Goswami-0079CF?style=plastic&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Anshuman0769" target="_blank">
-    <img src="https://img.shields.io/badge/-@Anshuman0769-0CC664?style=plastic&logo=x&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/-@Anshuman0769-000000?style=plastic&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:anshumangoswami07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/anshumangoswami07@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:anshumangoswami07@gmail.com" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/anshumangoswami07@gmail.com-white?style=plastic&logo=Gmail&logoColor=red"/>
+  </a>
+  <a href="https://useordoai.com" target="_blank">
+    <img src="https://img.shields.io/badge/-useordoai.com-c0392b?style=plastic&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
-<p>
-  <!-- Solvra Studio -->
-  <a href="https://solvra.studio" target="_blank">
-    <img src="https://img.shields.io/badge/-Solvra_Studio-5432D2?style=plastic&logo=google-chrome&logoColor=white" alt="Solvra Website Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/company/solvra-studio" target="_blank">
-    <img src="https://img.shields.io/badge/-Solvra_Studio-0A66C2?style=plastic&logo=Linkedin&logoColor=white" alt="Solvra LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/solvrastudio" target="_blank">
-    <img src="https://img.shields.io/badge/-@solvrastudio-000000?style=plastic&logo=x&logoColor=white" alt="Solvra X Badge"/>
-  </a>
-</p>
+---
 
-<hr/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=80&section=footer"/>
+</div>
 
-<p align="center">
-  <em>
-    “Always curious, always learning, always building.”  
-    <br/>
-    Currently: shipping Solvra Studio in public.
-  </em>
-</p>
+<div align="center">
+  <em>"The error tells you where the pipeline stopped. Not why."</em>
+  <br/>
+  <strong>Currently shipping Ordo AI in public → <a href="https://useordoai.com">useordoai.com</a></strong>
+</div>
