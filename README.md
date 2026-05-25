@@ -128,9 +128,8 @@ anshuman = {
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goswamianshuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=c0392b&icon_color=c0392b&border_color=c0392b"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goswamianshuman&layout=compact&langs_count=8&theme=radical&title_color=c0392b&border_color=c0392b"/>
+<div align="center" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goswamianshuman&theme=github_dark"/>
 </div>
 
 ---
