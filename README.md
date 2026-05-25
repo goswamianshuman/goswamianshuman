@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Anshuman Goswami (he/him) 👋</h1>
-<h1 align="center">Full-Stack Engineer · Python · Next.js · AWS · Building in public</h1>
+<h3 align="center">Full-Stack Engineer · Python · Next.js · AWS · Building in public</h3>
 <h3 align="center">currently building <a href="https://useordoai.com" target="_blank">Ordo</a></h3>
 
 <p align="center">
